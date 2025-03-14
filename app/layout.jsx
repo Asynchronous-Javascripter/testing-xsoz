@@ -1,8 +1,8 @@
 import "./globals.css";
-//import {Providers} from './providers';
+ import {Providers} from './providers';
 // import {Carter_One} from 'next/font/google';
-// import Navbar from '../components/heroui/Navbar';
-import DemoNavbar from '../components/heroui/Demo-Navbar';
+ import Navbar from '../components/heroui/Navbar';
+//import DemoNavbar from '../components/heroui/Demo-Navbar';
  /* const carter_font = Carter_One({
   weight:'400',
   subsets:['latin']
@@ -59,10 +59,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-    { /*    <Providers>  */ } 
-      <DemoNavbar/> 
+     <Providers> 
+      <Navbar/> 
         {children}
-    { /*    </Providers>  */ }
+     </Providers>  
       </body>
     </html>
   );

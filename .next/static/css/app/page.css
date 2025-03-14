@@ -1,0 +1,33 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./app/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************/
+.page_centerGreetingAndSuggessitionDiv__oNXfF{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.page_greetingTextColorStyle__gozd3{
+  color:transparent;
+  background:linear-gradient(to right, #4a90e2, #a355b9,  #ff6b6b);
+  -webkit-background-clip: text;
+          background-clip: text;
+  webkit-background-clip: text;
+  margin-left: 20px;
+}
+/*!****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[2].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[2].use[2]!./node_modules/next/font/google/target.css?{"path":"app/page.jsx","import":"Carter_One","arguments":[{"weight":"400","subsets":["latin"]}],"variableName":"carter_font"} ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/* latin */
+@font-face {
+  font-family: 'Carter One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/_next/static/media/9ac56c6c5cb7b86b-s.p.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}@font-face {font-family: 'Carter One Fallback';src: local("Arial");ascent-override: 100.43%;descent-override: 39.48%;line-gap-override: 0.00%;size-adjust: 110.08%
+}.__className_75e727 {font-family: 'Carter One', 'Carter One Fallback';font-weight: 400;font-style: normal
+}
+
