@@ -1,0 +1,14 @@
+.centerGreetingAndSuggessitionDiv{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.greetingTextColorStyle{
+  color:transparent;
+  background:linear-gradient(to right, #4a90e2, #a355b9,  #ff6b6b);
+  background-clip: text;
+  webkit-background-clip: text;
+  margin-left: 20px;
+}
